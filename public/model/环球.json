@@ -1,0 +1,235 @@
+{
+    "model": {
+        "url": "/model/",
+        "models": ["01.FBX"]
+    },
+    "components": [],
+    "config": [{
+        "name": "环球中兴02",
+        "option": {
+            "urlName": "01.FBX",
+            "effects": [],
+            "commons": []
+        },
+        "position": {
+            "x": 0.8805084228515625,
+            "y": -4.0449981689453125,
+            "z": -58.6907958984375
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "material": [{
+            "name": "_环球中心Material__25",
+            "opacity": 1,
+            "side": 0,
+            "blending": 1,
+            "transparent": false,
+            "depthWrite": true,
+            "depthTest": true,
+            "wireframe": false,
+            "color": "rgb(149,149,149)"
+        }, {
+            "name": "Material #25",
+            "opacity": 1,
+            "side": 0,
+            "blending": 1,
+            "transparent": false,
+            "depthWrite": true,
+            "depthTest": true,
+            "wireframe": false,
+            "color": "rgb(149,149,149)"
+        }, {
+            "name": "21 - Default",
+            "opacity": 1,
+            "side": 0,
+            "blending": 1,
+            "transparent": false,
+            "depthWrite": true,
+            "depthTest": true,
+            "wireframe": false,
+            "color": "rgb(244,221,69)"
+        }, {
+            "name": "白色顶",
+            "opacity": 1,
+            "side": 0,
+            "blending": 1,
+            "transparent": false,
+            "depthWrite": true,
+            "depthTest": true,
+            "wireframe": false,
+            "color": "rgb(255,255,255)"
+        }, {
+            "name": "Material #152",
+            "opacity": 1,
+            "side": 0,
+            "blending": 1,
+            "transparent": false,
+            "depthWrite": true,
+            "depthTest": true,
+            "wireframe": false,
+            "color": "rgb(149,149,149)"
+        }, {
+            "name": "Material #177",
+            "opacity": 1,
+            "side": 0,
+            "blending": 1,
+            "transparent": false,
+            "depthWrite": true,
+            "depthTest": true,
+            "wireframe": false,
+            "color": "rgb(149,149,149)"
+        }, {
+            "name": "Material #190",
+            "opacity": 1,
+            "side": 0,
+            "blending": 1,
+            "transparent": false,
+            "depthWrite": true,
+            "depthTest": true,
+            "wireframe": false,
+            "color": "rgb(149,149,149)"
+        }, {
+            "name": "Material #271",
+            "opacity": 1,
+            "side": 0,
+            "blending": 1,
+            "transparent": false,
+            "depthWrite": true,
+            "depthTest": true,
+            "wireframe": false,
+            "color": "rgb(149,149,149)"
+        }, {
+            "name": "Material #565",
+            "opacity": 1,
+            "side": 0,
+            "blending": 1,
+            "transparent": false,
+            "depthWrite": true,
+            "depthTest": true,
+            "wireframe": false,
+            "color": "rgb(149,149,149)"
+        }]
+    }, {
+        "name": "环球中兴01",
+        "option": {
+            "urlName": "01.FBX",
+            "effects": [],
+            "commons": []
+        },
+        "position": {
+            "x": 0.8805084228515625,
+            "y": -4.0449981689453125,
+            "z": -58.6907958984375
+        },
+        "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+        },
+        "rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+        },
+        "material": [{
+            "name": "_环球中心Material__63",
+            "opacity": 1,
+            "side": 1,
+            "blending": 1,
+            "transparent": true,
+            "depthWrite": true,
+            "depthTest": true,
+            "wireframe": false,
+            "color": "rgb(149,149,1)"
+        }, {
+            "name": "白色顶",
+            "opacity": 1,
+            "side": 0,
+            "blending": 1,
+            "transparent": false,
+            "depthWrite": true,
+            "depthTest": true,
+            "wireframe": false,
+            "color": "rgb(255,255,255)"
+        }, {
+            "name": "21 - Default",
+            "opacity": 1,
+            "side": 0,
+            "blending": 1,
+            "transparent": false,
+            "depthWrite": true,
+            "depthTest": true,
+            "wireframe": false,
+            "color": "rgb(244,221,6)"
+        }, {
+            "name": "15 - Default",
+            "opacity": 1,
+            "side": 0,
+            "blending": 1,
+            "transparent": false,
+            "depthWrite": true,
+            "depthTest": true,
+            "wireframe": false,
+            "color": "rgb(240,16,16)"
+        }, {
+            "name": "09 - Default",
+            "opacity": 1,
+            "side": 0,
+            "blending": 1,
+            "transparent": false,
+            "depthWrite": true,
+            "depthTest": true,
+            "wireframe": false,
+            "color": "rgb(219,230,8)"
+        }, {
+            "name": "Material #296",
+            "opacity": 1,
+            "side": 0,
+            "blending": 1,
+            "transparent": false,
+            "depthWrite": true,
+            "depthTest": true,
+            "wireframe": false,
+            "color": "rgb(149,149,9)"
+        }, {
+            "name": "10 - Default",
+            "opacity": 1,
+            "side": 0,
+            "blending": 1,
+            "transparent": false,
+            "depthWrite": true,
+            "depthTest": true,
+            "wireframe": false,
+            "color": "rgb(191,214,8)"
+        }, {
+            "name": "Material #626",
+            "opacity": 1,
+            "side": 0,
+            "blending": 1,
+            "transparent": false,
+            "depthWrite": true,
+            "depthTest": true,
+            "wireframe": false,
+            "color": "rgb(149,149,9)"
+        }, {
+            "name": "Material #25ss",
+            "opacity": 1,
+            "side": 0,
+            "blending": 1,
+            "transparent": false,
+            "depthWrite": true,
+            "depthTest": true,
+            "wireframe": false,
+            "color": "rgb(149,149,9)"
+        }]
+    }],
+    "name": "W3D_STONERAO"
+}
